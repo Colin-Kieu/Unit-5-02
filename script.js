@@ -4,3 +4,4 @@ document.getElementById('button').addEventListener('click', displayMessage)
 function displayMessage () {
   alert("Hello")
 }
+/* what this part does is that when the button is clicked, it will display whats in the curly braces*/
